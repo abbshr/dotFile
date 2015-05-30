@@ -1,0 +1,34 @@
+{
+  "name": "flatui-dark-mtt",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "FlatUI colors with dark background",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mtt87/atom-flatui-dark-mtt"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  },
+  "readme": "# FlatUI theme\n\nFlatUI colors syntax theme for Atom with dark background\n\n![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)\n",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/mtt87/atom-flatui-dark-mtt/issues"
+  },
+  "homepage": "https://github.com/mtt87/atom-flatui-dark-mtt",
+  "_id": "flatui-dark-mtt@0.1.0",
+  "_shasum": "92a275fc879ce4e54b43de1654cd3d2b0c0c5722",
+  "_resolved": "file:../d-11543-18343-13e76zp/package.tgz",
+  "_from": "../d-11543-18343-13e76zp/package.tgz",
+  "_atomModuleCache": {
+    "version": 1,
+    "dependencies": [],
+    "extensions": {
+      ".json": [
+        "package.json"
+      ]
+    },
+    "folders": []
+  }
+}

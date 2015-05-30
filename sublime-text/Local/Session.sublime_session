@@ -1,0 +1,2336 @@
+{
+	"folder_history":
+	[
+		"/etc/apt/sources.list.d",
+		"/home/ran/uconfig",
+		"/home/ran/github/auto-script",
+		"/home/ran/desktop",
+		"/etc/network/if-up.d",
+		"/home/ran/.atom",
+		"/home/ran/github/atom/build",
+		"/home/ran/github/atom/script",
+		"/home/ran/test",
+		"/home/ran/github/Lotterior",
+		"/home/ran/others/tes",
+		"/home/ran/others/yg",
+		"/home/ran/desktop/sqa/commission",
+		"/home/ran/desktop/cryptp2pshare",
+		"/media/ran/wexin-rewards/rewards",
+		"/home/ran/github/gitcontacts/lib/gitcontacts",
+		"/home/ran/github/MultiMedia-playground/audio",
+		"/home/ran/desktop/1123710413-ui",
+		"/home/ran/desktop/cryptp2pshare/index-server",
+		"/home/ran/github/Yinle.me",
+		"/etc/cups",
+		"/home/ran/github/Git-Contacts",
+		"/home/ran/desktop/ui2",
+		"/home/ran/desktop/middleware",
+		"/home/ran/desktop/中间件",
+		"/home/ran/desktop/ui",
+		"/home/ran/downloads",
+		"/home/ran/desktop/sqa/webserver",
+		"/home/ran/desktop/sqa",
+		"/home/ran/desktop/sqa/nextdate",
+		"/home/ran/desktop/crypto_des/DES",
+		"/etc/NetworkManager",
+		"/home/ran/others/healthlink",
+		"/media/ran/wexin-rewards",
+		"/media/ran",
+		"/home/ran/others/weixin-award/rewards",
+		"/home/ran/others/rewards",
+		"/home/ran/others/weixin-award",
+		"/home/ran/downloads/zyf",
+		"/home/ran/test/dir-generate",
+		"/home/ran/github/RocketEngine",
+		"/home/ran/github/io.js",
+		"/home/ran/src/node-v0.12.0",
+		"/media/ran/insight",
+		"/media/ran/insight/node_modules/insight-bitcore-api",
+		"/home/ran/desktop/crypto",
+		"/home/ran/github/RocketEngine/.git",
+		"/home/ran/.config/fish",
+		"/home/ran/github/MultiMedia-playground",
+		"/home/ran/github/webrtc",
+		"/home/ran/github/webrtc/samples",
+		"/home/ran/github/RocketEngine/test",
+		"/home/ran/github/Web-Git-Contacts",
+		"/home/ran/github/react-tutorial",
+		"/home/ran/github/Web-Git-Contacts/webserve",
+		"/home/ran/github/gitcontacts",
+		"/home/ran/test/github",
+		"/home/ran/github/libuv",
+		"/home/ran/github/Git-Contacts/app",
+		"/usr/local/lib/ruby/site_ruby/2.1.0/openssl",
+		"/home/ran/github/git-contact/.git/hooks",
+		"/home/ran/github/two.js/build",
+		"/home/ran/blog/ghost",
+		"/home/ran/src/node-v0.10.31/lib",
+		"/home/ran/others/healthlink/node_modules",
+		"/home/ran/others/healthlink/node_modules/fslider_ws/lib",
+		"/home/ran/github/fSlider_ws",
+		"/home/ran/github/wsframe",
+		"/home/ran/github/execQ",
+		"/home/ran/others/healthlink/node_modules/fslider_ws/test",
+		"/home/ran/blog/abbshr.github.io",
+		"/home/ran/github/learnrb/sinatra",
+		"/home/ran/others/now",
+		"/home/ran/others/now-mirror",
+		"/home/ran/github/app",
+		"/home/ran/github/insight-api",
+		"/home/ran/github/fSlider_ws/lib",
+		"/home/ran/github/node-formidable",
+		"/media/ran/home/ran/external_2/btc/insight/node_modules/insight-bitcore-api",
+		"/home/ran/github/fSlider_ws/test/watcher",
+		"/home/ran/github/fSlider_ws/test/watcher/bin",
+		"/home/ran/github/lang",
+		"/home/ran/github/app/.git",
+		"/home/ran/personal/decode_src",
+		"/home/ran/personal/PRJ1-PipesFilters-Encryption",
+		"/home/ran/github/insight-api/config",
+		"/home/ran/insight-api",
+		"/proc/sys/net/ipv4",
+		"/proc/sys/net/core",
+		"/home/ran/github/Lua-newbie",
+		"/usr/local/lib/node_modules/stream-adventure",
+		"/usr/local/lib/node_modules/bytewiser",
+		"/home/ran/test/node-addon-examples/3_callbacks",
+		"/home/ran/src/node-v0.10.31",
+		"/home/ran/personal/collections",
+		"/home/ran/blog/abbshr.github.io/_posts",
+		"/home/ran/github/learning_Bash",
+		"/home/ran/github/Yinle.me/utils",
+		"/home/ran/src/linux/net",
+		"/home/ran/github/fSlider_ws/test",
+		"/home/ran/github/event.js",
+		"/home/ran/github/scripts",
+		"/home/ran/personal/lg",
+		"/home/ran/personal/pj",
+		"/home/ran/personal/未命名文件夹",
+		"/home/ran/github/fSlider-WebSocketFramework",
+		"/home/ran/personal/未命名文件夹/html",
+		"/home/ran/personal/html",
+		"/home/ran/personal/project1/WebRoot/html",
+		"/home/ran/github/colorlogger",
+		"/home/ran/github",
+		"/home/ran/github/socket.io",
+		"/home/ran/github/fSlider-WebSocketFramework/fSlider_ws/frontend/event.js",
+		"/home/ran/R",
+		"/home/ran/github/Yinle.me/models",
+		"/home/ran/github/fSlider-WebSocketFramework/fSlider_ws",
+		"/home/ran/test/raphael"
+	],
+	"last_version": 3083,
+	"last_window_id": 385,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 0.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"AT",
+						"ATOM_HOME"
+					],
+					[
+						"des",
+						"destinationPath"
+					],
+					[
+						"app",
+						"appDir"
+					],
+					[
+						"bu",
+						"buildDir"
+					],
+					[
+						"ran",
+						"randNum"
+					],
+					[
+						"rand",
+						"random"
+					],
+					[
+						"for",
+						"forin	Array Comprehension"
+					],
+					[
+						"coun",
+						"count"
+					],
+					[
+						"leve",
+						"levels"
+					],
+					[
+						"con",
+						"count"
+					],
+					[
+						"le",
+						"length"
+					],
+					[
+						"_u",
+						"_builtIn"
+					],
+					[
+						"lo",
+						"lottery"
+					],
+					[
+						"poo",
+						"_pool"
+					],
+					[
+						"_",
+						"_max"
+					],
+					[
+						"if",
+						"ifel	If Else"
+					],
+					[
+						"co",
+						"console"
+					],
+					[
+						"cou",
+						"counter"
+					],
+					[
+						"pro",
+						"prototype"
+					],
+					[
+						"pr",
+						"prototype"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"o",
+						"offset"
+					],
+					[
+						"num",
+						"num_ref"
+					],
+					[
+						"prp",
+						"property"
+					],
+					[
+						"prop",
+						"property"
+					],
+					[
+						"reu",
+						"return"
+					],
+					[
+						"is",
+						"isArray"
+					],
+					[
+						"roun",
+						"round"
+					],
+					[
+						"opt",
+						"options"
+					],
+					[
+						"fe",
+						"fetch"
+					],
+					[
+						"han",
+						"handle_fetch"
+					],
+					[
+						"fie",
+						"filename"
+					],
+					[
+						"wi",
+						"write"
+					],
+					[
+						"si",
+						"signature"
+					],
+					[
+						"enc",
+						"enc_iv"
+					],
+					[
+						"syn",
+						"sync"
+					],
+					[
+						"sub",
+						"sub_encp"
+					],
+					[
+						"hea",
+						"handle_sync"
+					],
+					[
+						"da",
+						"data_parser"
+					],
+					[
+						"head",
+						"head_parser"
+					],
+					[
+						"pars",
+						"parser"
+					],
+					[
+						"err",
+						"err_res"
+					],
+					[
+						"st",
+						"state"
+					],
+					[
+						"Da",
+						"DATAEND"
+					],
+					[
+						"up",
+						"unpack"
+					],
+					[
+						"key",
+						"key"
+					],
+					[
+						"ke",
+						"key"
+					],
+					[
+						"d",
+						"decipher"
+					],
+					[
+						"pa",
+						"pack"
+					],
+					[
+						"publi",
+						"public_encrypt"
+					],
+					[
+						"has",
+						"hash"
+					],
+					[
+						"C",
+						"CERTIFICATE"
+					],
+					[
+						"peer",
+						"peer_port"
+					],
+					[
+						"file",
+						"filename"
+					],
+					[
+						"ROOT",
+						"ROOT_KEY"
+					],
+					[
+						"be",
+						"begin	begin … rescue … end"
+					],
+					[
+						"ge",
+						"generate"
+					],
+					[
+						"fil",
+						"filename"
+					],
+					[
+						"fet",
+						"fetch"
+					],
+					[
+						"pe",
+						"peer_port"
+					],
+					[
+						"ca",
+						"ca_pub_key"
+					],
+					[
+						"pee",
+						"peer_port"
+					],
+					[
+						"peer_p",
+						"peer_ip"
+					],
+					[
+						"connec",
+						"connection"
+					],
+					[
+						"pub",
+						"pub_key"
+					],
+					[
+						"req",
+						"require"
+					],
+					[
+						"sin",
+						"signature"
+					],
+					[
+						"di",
+						"digest"
+					],
+					[
+						"Pr",
+						"PRIVATE_KEY"
+					],
+					[
+						"ha",
+						"hash_algorithm"
+					],
+					[
+						"pri",
+						"private_decrypt"
+					],
+					[
+						"cer",
+						"certificate"
+					],
+					[
+						"mod",
+						"mod	module .. end"
+					],
+					[
+						"un",
+						"until	until ... end"
+					],
+					[
+						"ED",
+						"ENDCODE"
+					],
+					[
+						"END",
+						"ENDCODE"
+					],
+					[
+						"root",
+						"root_ca"
+					],
+					[
+						"roo",
+						"root_key"
+					],
+					[
+						"red",
+						"redis_storage"
+					],
+					[
+						"Ha",
+						"hash_key"
+					],
+					[
+						"do",
+						"dob	Insert do |variable| … end"
+					],
+					[
+						"res",
+						"redis"
+					],
+					[
+						"Ce",
+						"Certificate"
+					],
+					[
+						"cert",
+						"cert"
+					],
+					[
+						"mo",
+						"mod	module .. end"
+					],
+					[
+						"clie",
+						"client_addrinfo"
+					],
+					[
+						"re",
+						"require"
+					],
+					[
+						"requ",
+						"require_relative"
+					],
+					[
+						"proce",
+						"processor_2"
+					],
+					[
+						"font",
+						"font-size"
+					],
+					[
+						"rre",
+						"rewardsc"
+					],
+					[
+						"fi",
+						"filename"
+					],
+					[
+						"fin",
+						"fingerprint"
+					],
+					[
+						"en",
+						"entry"
+					],
+					[
+						"cla",
+						"cla	class .. initialize .. end"
+					],
+					[
+						"sto",
+						"stocks_counts"
+					],
+					[
+						"l",
+						"locks_counts"
+					],
+					[
+						"loc",
+						"locks"
+					],
+					[
+						"lock",
+						"locks_counts"
+					],
+					[
+						"must",
+						"must_be_instance_of"
+					],
+					[
+						"r",
+						"record"
+					],
+					[
+						"c",
+						"current"
+					],
+					[
+						"barr",
+						"barrels_counts"
+					],
+					[
+						"ta",
+						"tra	transaction( .. ) { .. }"
+					],
+					[
+						"clas",
+						"classList"
+					],
+					[
+						"cl",
+						"click"
+					],
+					[
+						"tot",
+						"total_dollors"
+					],
+					[
+						"in",
+						"input"
+					],
+					[
+						"val",
+						"value"
+					],
+					[
+						"par",
+						"params"
+					],
+					[
+						"ba",
+						"barrels"
+					],
+					[
+						"recor",
+						"record"
+					],
+					[
+						"to",
+						"to_s"
+					],
+					[
+						"com",
+						"commission"
+					],
+					[
+						"lun",
+						"lunarDate"
+					],
+					[
+						"nex",
+						"nextDate"
+					],
+					[
+						"blo",
+						"block_count"
+					],
+					[
+						"rou",
+						"rounds"
+					],
+					[
+						"chec",
+						"checkSignature"
+					],
+					[
+						"listen",
+						"listening"
+					],
+					[
+						"crea",
+						"createGroup"
+					],
+					[
+						"a",
+						"api"
+					],
+					[
+						"po",
+						"pool_1000"
+					],
+					[
+						"rew",
+						"reward"
+					],
+					[
+						"pool",
+						"pool_"
+					],
+					[
+						"sen",
+						"sendText"
+					],
+					[
+						"pol",
+						"poolinfo"
+					],
+					[
+						"Eve",
+						"EventKey"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 311.0,
+				"last_filter": "synta co",
+				"selected_items":
+				[
+					[
+						"synta co",
+						"Set Syntax: CoffeeScript"
+					],
+					[
+						"pac in",
+						"Package Control: Install Package"
+					],
+					[
+						"pac",
+						"Package Control: Install Package"
+					],
+					[
+						"comm",
+						"Toggle Block Comment"
+					],
+					[
+						"syn",
+						"Set Syntax: Ruby"
+					],
+					[
+						"",
+						"JSHint: Clear Annotations"
+					],
+					[
+						"jsx",
+						"Set Syntax: JavaScript (JSX)"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"js",
+						"JSHint: Clear Annotations"
+					],
+					[
+						"j",
+						"JSHint: Clear Annotations"
+					],
+					[
+						"save",
+						"File: Save All"
+					],
+					[
+						"sa",
+						"File: Save All"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Preferences: Browse Packages"
+					],
+					[
+						"sav",
+						"File: Save All"
+					]
+				],
+				"width": 400.0
+			},
+			"console":
+			{
+				"height": 153.0,
+				"history":
+				[
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/ran/desktop/log",
+				"/etc/apt/sources.list.",
+				"/home/ran/uconfig/mongodb.conf",
+				"/etc/apt/sources.list",
+				"/home/ran/github/auto-script/tmp_conf/redis.conf",
+				"/home/ran/github/auto-script/tmp_conf/mongodb.conf",
+				"/etc/mongod.conf",
+				"/home/ran/github/auto-script/tmp_conf/Makefile",
+				"/home/ran/programs/leveldb/Makefile",
+				"/home/ran/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/etc/shadowsocks.json",
+				"/home/ran/.config/fish/config.fish",
+				"/etc/init.d/networking",
+				"/etc/modprobe.d/blacklist.conf",
+				"/etc/network/interfaces",
+				"/home/ran/.atom/config.cson",
+				"/home/ran/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+				"/home/ran/github/atom/build/node_modules/grunt-download-atom-shell/tasks/download-atom-shell-task.coffee",
+				"/usr/local/bin/atom",
+				"/home/ran/github/atom/build/Gruntfile.coffee",
+				"/home/ran/github/atom/build/tasks/build-task.coffee",
+				"/home/ran/github/atom/build/tasks/task-helpers.coffee",
+				"/home/ran/.atom/nohup.out",
+				"/home/ran/cat",
+				"/home/ran/github/atom/build/tasks/install-task.coffee",
+				"/home/ran/github/atom/build/tasks/atom-shell",
+				"/home/ran/github/atom/build/.npmrc",
+				"/home/ran/github/atom/script/utils/run-grunt.js",
+				"/home/ran/github/atom/script/utils/verify-requirements.js",
+				"/home/ran/test/se.js",
+				"/home/ran/github/atom/script/bootstrap",
+				"/home/ran/github/atom/script/grunt",
+				"/etc/hosts",
+				"/etc/hoss",
+				"/home/ran/github/Lotterior/README.md",
+				"/etc/resolv.conf",
+				"/boot/grub/grub.cfg",
+				"/home/ran/.selected_editor",
+				"/tmp/crontab.j6bJH2/crontab",
+				"/home/ran/others/tes/index.html",
+				"/home/ran/others/yg/index.html",
+				"/home/ran/github/Lotterior/lotterior.js",
+				"/home/ran/github/RewardsPool/pool.js",
+				"/home/ran/desktop/cryptp2pshare/peer/d_handle.rb",
+				"/home/ran/github/RocketEngine/lib/browser/event.js",
+				"/home/ran/github/RewardsPool",
+				"/home/ran/desktop/cryptp2pshare/peer/shared.rb",
+				"/home/ran/desktop/cryptp2pshare/index/server.rb",
+				"/home/ran/desktop/cryptp2pshare/index/redis_storage.rb",
+				"/home/ran/desktop/cryptp2pshare/index/ca.rb",
+				"/home/ran/desktop/cryptp2pshare/index-server/server.rb",
+				"/home/ran/desktop/cryptp2pshare/peer/client.rb",
+				"/home/ran/desktop/cryptp2pshare/peer/test_e.rb",
+				"/home/ran/desktop/cryptp2pshare/peer/handle.rb",
+				"/home/ran/desktop/cryptp2pshare/encp.rb",
+				"/home/ran/desktop/cryptp2pshare/index-server/test_c.rb",
+				"/home/ran/desktop/cryptp2pshare/index-server/test_s.rb",
+				"/home/ran/desktop/cryptp2pshare/util.rb",
+				"/home/ran/desktop/cryptp2pshare/index-server/handle.rb",
+				"/home/ran/desktop/cryptp2pshare/index-server/redis_storage.rb",
+				"/home/ran/desktop/cryptp2pshare/index-server/cert.rb",
+				"/home/ran/desktop/cryptp2pshare/data-node/shared.rb",
+				"/home/ran/desktop/cryptp2pshare/data-node/handle.rb",
+				"/home/ran/desktop/cryptp2pshare/data-node/client.rb",
+				"/home/ran/desktop/cryptp2pshare/data-node/test_e.rb",
+				"/home/ran/utils/android_root_resource/hammerhead-lmy47i/flash-base.sh",
+				"/home/ran/desktop/cryptp2pshare/data-node/daemon.rb",
+				"/home/ran/desktop/cryptp2pshare/index-server/ca.rb",
+				"/home/ran/desktop/cryptp2pshare/index-server/test.rb",
+				"/home/ran/ran_rsa.pub",
+				"/home/ran/ran_rsa",
+				"/home/ran/desktop/cryptp2pshare/crypto.rb",
+				"/home/ran/desktop/cryptp2pshare/index-server/util.rb",
+				"/home/ran/desktop/1123710413-ui/synopsis.html",
+				"/home/ran/desktop/1123710413-ui/what-is-websocket.html",
+				"/home/ran/desktop/ui/demo.html",
+				"/home/ran/desktop/1123710413-ui/index.html",
+				"/media/ran/wexin-rewards/rewards/routes/index.js",
+				"/media/ran/wexin-rewards/rewards/services/rewardspool.js",
+				"/media/ran/wexin-rewards/rewards/node_modules/wechat-api/lib/util.js",
+				"/home/ran/desktop/sqa/commission/testc.rb",
+				"/home/ran/desktop/sqa/commission/test.rb",
+				"/home/ran/desktop/cryptp2pshare/index-server/Gemfile",
+				"/home/ran/desktop/cryptp2pshare/index-server/spec.rb",
+				"/home/ran/desktop/cryptp2pshare/index-server/tcps.rb",
+				"/home/ran/github/Yinle.me/core-store.js",
+				"/home/ran/github/Yinle.me/fs-subsystem.js",
+				"/home/ran/github/Git-Contacts/config.yml",
+				"/home/ran/github/Git-Contacts/Gemfile",
+				"/usr/local/lib/ruby/gems/2.1.0/gems/sinatra-contrib-1.4.2/sinatra-contrib.gemspec",
+				"/home/ran/.bashrc",
+				"/home/ran/desktop/ui2/inputgrp.js",
+				"/home/ran/desktop/ui2/playground.js",
+				"/home/ran/desktop/ui2/render.js",
+				"/home/ran/desktop/middleware/client.java",
+				"/home/ran/desktop/middleware/AddInterface.java",
+				"/home/ran/desktop/sqa/commission/test_record.rb",
+				"/home/ran/desktop/sqa/commission/Rakefile",
+				"/home/ran/desktop/sqa/commission/record.rb",
+				"/home/ran/desktop/中间件/Client.cpp",
+				"/home/ran/desktop/中间件/Constant.h",
+				"/home/ran/desktop/中间件/CA.cpp",
+				"/home/ran/desktop/middleware/server.java",
+				"/home/ran/desktop/sqa/webserver/README.md",
+				"/home/ran/desktop/sqa/webserver/record.rb",
+				"/home/ran/desktop/sqa/webserver/views/index.erb",
+				"/home/ran/desktop/sqa/webserver/views/record.erb",
+				"/home/ran/desktop/sqa/webserver/views/error.erb",
+				"/home/ran/github/Git-Contacts/lib/api/routes/card.rb",
+				"/home/ran/github/Git-Contacts/lib/gitcontacts/Contacts.rb",
+				"/home/ran/github/Git-Contacts/lib/gc-restful-api.rb",
+				"/home/ran/desktop/sqa/webserver/Gemfile",
+				"/home/ran/github/Git-Contacts/app.rb",
+				"/home/ran/desktop/sqa/commission/commission.gemspec",
+				"/home/ran/github/gitcontacts/gitcontacts.gemspec",
+				"/home/ran/desktop/sqa/nextdate/nextdate.js",
+				"/home/ran/desktop/sqa/nextdate/README.md",
+				"/home/ran/desktop/sqa/nextdate/package.json",
+				"/home/ran/desktop/sqa/nextdate/node_modules/chinese-lunar/lib/chinese-lunar.js",
+				"/home/ran/desktop/crypto_des/DES/sh.sh",
+				"/home/ran/desktop/crypto_des/DES/difference.js",
+				"/home/ran/desktop/crypto_des/DES/differency_analyze_random",
+				"/home/ran/desktop/crypto_des/DES/differency_analyze_linear",
+				"/home/ran/desktop/crypto_des/DES/run_des.c",
+				"/home/ran/desktop/crypto_des/DES/des.c",
+				"/home/ran/desktop/crypto_des/DES/key",
+				"/home/ran/desktop/crypto_des/DES/des.h",
+				"/media/ran/wexin-rewards/rewards/bin/www"
+			],
+			"find":
+			{
+				"height": 36.0
+			},
+			"find_in_files":
+			{
+				"height": 96.0,
+				"where_history":
+				[
+					"<this files>",
+					"<open files>",
+					"<this files>",
+					"<open files>",
+					"<this files>",
+					"<open files>",
+					"<this files>",
+					"<open files>",
+					"<this files>",
+					"<open files>",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"utopic",
+					"outputDir",
+					"downloadDir",
+					"TaskName",
+					"downloadDir",
+					"versionDownloadDir",
+					"downloadAndUnzip",
+					"unzipFile",
+					"shell",
+					"Atom",
+					"atom-shell",
+					"Atom",
+					"atomShellDownloadDir",
+					"home",
+					"atom-shell",
+					"https",
+					"_builtIn",
+					"Math",
+					"_algorithm",
+					"windows",
+					"img",
+					"rewards",
+					"rounds",
+					"isFull",
+					"File",
+					"puts",
+					"Invalid",
+					"generate",
+					"packet",
+					"data",
+					"packet",
+					"puts",
+					"666",
+					"origin",
+					"registy",
+					"parse_packet",
+					"handle",
+					"parse_packet",
+					"generate_packet",
+					"prefix",
+					"2048",
+					"wrapper",
+					"redis",
+					"end",
+					"typeVerify_readCb",
+					"convert2",
+					"writeToDir_dirCb",
+					"convert2pdf",
+					"must_be_equal",
+					"Fx",
+					"_IX_H_",
+					"form",
+					"    \n",
+					"primary",
+					"inverted",
+					" -",
+					"redis",
+					"nNextDate",
+					"_solarAdd",
+					"toHex",
+					"S1",
+					"s1",
+					"print_key_set",
+					"print_char_as_binary",
+					"printf",
+					"generate_key",
+					"print_char_as_binary",
+					"S8",
+					"16",
+					"processed_piece",
+					"process_message",
+					"amounts",
+					"      \n",
+					"pool",
+					"rounds+ ",
+					"rounds + ",
+					"rounds+ ",
+					"amounts",
+					"db.collection('pool')",
+					"console",
+					"checkSi",
+					"pool_",
+					"          \n",
+					"wait",
+					"amount",
+					"inspect",
+					"ToUserName",
+					"find",
+					"amount",
+					"_candidates",
+					"_rewards",
+					"_amount",
+					"amount",
+					"text",
+					"multer",
+					"self",
+					"rewards",
+					"    \n",
+					"pool",
+					"reply",
+					"counts",
+					"rounds",
+					"pool",
+					"counts",
+					"update",
+					"wechat",
+					"wsf",
+					"ws",
+					"wsf",
+					"EventEmitter",
+					"CustomEvent",
+					"_sockets",
+					"remote",
+					"info",
+					"getRegistedId",
+					"id",
+					"genRandomNumber",
+					"id",
+					"amounts",
+					"database",
+					"hasOwnProperty",
+					"isFunction",
+					"hasOwnProperty",
+					"console",
+					"mongo",
+					"NASU",
+					"head_len",
+					"count"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"trusty",
+					"inverted toBin",
+					"toBin",
+					"className=",
+					"/css/dist/components/",
+					"createClass",
+					"@body",
+					"@return_message",
+					"return_message",
+					"status",
+					"",
+					"unborn",
+					"  ",
+					"#209E7D",
+					"#10B68A",
+					"exports",
+					"this.tuples[++this.tindex]",
+					"args.tuple",
+					"args.\nargs.\nargstuple",
+					"args.\nargs.\nargs.tuple",
+					"args.src",
+					"args.c_row",
+					"args.c_col",
+					"args.s_col",
+					"args.s_row",
+					"args.s_col",
+					"args.c_col",
+					"args.c_row",
+					"tuple",
+					"classof",
+					"dbopt",
+					"sysEmit",
+					"valueAsDate || new Date()",
+					"<script async defer src='js/Utils/check_valid.js'></script>",
+					"href=\"css/style.css\"",
+					"_proto"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 27.0
+			},
+			"input":
+			{
+				"height": 35.0
+			},
+			"menu_visible": true,
+			"output.coffeecompile_output":
+			{
+				"height": 124.0
+			},
+			"output.exec":
+			{
+				"height": 124.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 50.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"index.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 197.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"AT",
+						"ATOM_HOME"
+					],
+					[
+						"des",
+						"destinationPath"
+					],
+					[
+						"app",
+						"appDir"
+					],
+					[
+						"bu",
+						"buildDir"
+					],
+					[
+						"ran",
+						"randNum"
+					],
+					[
+						"rand",
+						"random"
+					],
+					[
+						"for",
+						"forin	Array Comprehension"
+					],
+					[
+						"coun",
+						"count"
+					],
+					[
+						"leve",
+						"levels"
+					],
+					[
+						"con",
+						"count"
+					],
+					[
+						"le",
+						"length"
+					],
+					[
+						"_u",
+						"_builtIn"
+					],
+					[
+						"lo",
+						"lottery"
+					],
+					[
+						"poo",
+						"_pool"
+					],
+					[
+						"_",
+						"_max"
+					],
+					[
+						"if",
+						"ifel	If Else"
+					],
+					[
+						"co",
+						"console"
+					],
+					[
+						"cou",
+						"counter"
+					],
+					[
+						"pro",
+						"prototype"
+					],
+					[
+						"pr",
+						"prototype"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"o",
+						"offset"
+					],
+					[
+						"num",
+						"num_ref"
+					],
+					[
+						"prp",
+						"property"
+					],
+					[
+						"prop",
+						"property"
+					],
+					[
+						"reu",
+						"return"
+					],
+					[
+						"is",
+						"isArray"
+					],
+					[
+						"roun",
+						"round"
+					],
+					[
+						"opt",
+						"options"
+					],
+					[
+						"fe",
+						"fetch"
+					],
+					[
+						"han",
+						"handle_fetch"
+					],
+					[
+						"fie",
+						"filename"
+					],
+					[
+						"wi",
+						"write"
+					],
+					[
+						"si",
+						"signature"
+					],
+					[
+						"enc",
+						"enc_iv"
+					],
+					[
+						"syn",
+						"sync"
+					],
+					[
+						"sub",
+						"sub_encp"
+					],
+					[
+						"hea",
+						"handle_sync"
+					],
+					[
+						"da",
+						"data_parser"
+					],
+					[
+						"head",
+						"head_parser"
+					],
+					[
+						"pars",
+						"parser"
+					],
+					[
+						"err",
+						"err_res"
+					],
+					[
+						"st",
+						"state"
+					],
+					[
+						"Da",
+						"DATAEND"
+					],
+					[
+						"up",
+						"unpack"
+					],
+					[
+						"key",
+						"key"
+					],
+					[
+						"ke",
+						"key"
+					],
+					[
+						"d",
+						"decipher"
+					],
+					[
+						"pa",
+						"pack"
+					],
+					[
+						"publi",
+						"public_encrypt"
+					],
+					[
+						"has",
+						"hash"
+					],
+					[
+						"C",
+						"CERTIFICATE"
+					],
+					[
+						"peer",
+						"peer_port"
+					],
+					[
+						"file",
+						"filename"
+					],
+					[
+						"ROOT",
+						"ROOT_KEY"
+					],
+					[
+						"be",
+						"begin	begin … rescue … end"
+					],
+					[
+						"ge",
+						"generate"
+					],
+					[
+						"fil",
+						"filename"
+					],
+					[
+						"fet",
+						"fetch"
+					],
+					[
+						"pe",
+						"peer_port"
+					],
+					[
+						"ca",
+						"ca_pub_key"
+					],
+					[
+						"pee",
+						"peer_port"
+					],
+					[
+						"peer_p",
+						"peer_ip"
+					],
+					[
+						"connec",
+						"connection"
+					],
+					[
+						"pub",
+						"pub_key"
+					],
+					[
+						"req",
+						"require"
+					],
+					[
+						"sin",
+						"signature"
+					],
+					[
+						"di",
+						"digest"
+					],
+					[
+						"Pr",
+						"PRIVATE_KEY"
+					],
+					[
+						"ha",
+						"hash_algorithm"
+					],
+					[
+						"pri",
+						"private_decrypt"
+					],
+					[
+						"cer",
+						"certificate"
+					],
+					[
+						"mod",
+						"mod	module .. end"
+					],
+					[
+						"un",
+						"until	until ... end"
+					],
+					[
+						"ED",
+						"ENDCODE"
+					],
+					[
+						"END",
+						"ENDCODE"
+					],
+					[
+						"root",
+						"root_ca"
+					],
+					[
+						"roo",
+						"root_key"
+					],
+					[
+						"red",
+						"redis_storage"
+					],
+					[
+						"Ha",
+						"hash_key"
+					],
+					[
+						"do",
+						"dob	Insert do |variable| … end"
+					],
+					[
+						"res",
+						"redis"
+					],
+					[
+						"Ce",
+						"Certificate"
+					],
+					[
+						"cert",
+						"cert"
+					],
+					[
+						"mo",
+						"mod	module .. end"
+					],
+					[
+						"clie",
+						"client_addrinfo"
+					],
+					[
+						"re",
+						"require"
+					],
+					[
+						"requ",
+						"require_relative"
+					],
+					[
+						"proce",
+						"processor_2"
+					],
+					[
+						"font",
+						"font-size"
+					],
+					[
+						"rre",
+						"rewardsc"
+					],
+					[
+						"fi",
+						"filename"
+					],
+					[
+						"fin",
+						"fingerprint"
+					],
+					[
+						"en",
+						"entry"
+					],
+					[
+						"cla",
+						"cla	class .. initialize .. end"
+					],
+					[
+						"sto",
+						"stocks_counts"
+					],
+					[
+						"l",
+						"locks_counts"
+					],
+					[
+						"loc",
+						"locks"
+					],
+					[
+						"lock",
+						"locks_counts"
+					],
+					[
+						"must",
+						"must_be_instance_of"
+					],
+					[
+						"r",
+						"record"
+					],
+					[
+						"c",
+						"current"
+					],
+					[
+						"barr",
+						"barrels_counts"
+					],
+					[
+						"ta",
+						"tra	transaction( .. ) { .. }"
+					],
+					[
+						"clas",
+						"classList"
+					],
+					[
+						"cl",
+						"click"
+					],
+					[
+						"tot",
+						"total_dollors"
+					],
+					[
+						"in",
+						"input"
+					],
+					[
+						"val",
+						"value"
+					],
+					[
+						"par",
+						"params"
+					],
+					[
+						"ba",
+						"barrels"
+					],
+					[
+						"recor",
+						"record"
+					],
+					[
+						"to",
+						"to_s"
+					],
+					[
+						"com",
+						"commission"
+					],
+					[
+						"lun",
+						"lunarDate"
+					],
+					[
+						"nex",
+						"nextDate"
+					],
+					[
+						"blo",
+						"block_count"
+					],
+					[
+						"rou",
+						"rounds"
+					],
+					[
+						"chec",
+						"checkSignature"
+					],
+					[
+						"listen",
+						"listening"
+					],
+					[
+						"crea",
+						"createGroup"
+					],
+					[
+						"a",
+						"api"
+					],
+					[
+						"po",
+						"pool_1000"
+					],
+					[
+						"rew",
+						"reward"
+					],
+					[
+						"pool",
+						"pool_"
+					],
+					[
+						"sen",
+						"sendText"
+					],
+					[
+						"pol",
+						"poolinfo"
+					],
+					[
+						"Eve",
+						"EventKey"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/etc/rc.local",
+					"settings":
+					{
+						"buffer_size": 434,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/etc/rethinkdb/default.conf.sample",
+					"settings":
+					{
+						"buffer_size": 2785,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/usr/local/lib/node_modules/node-qrcode/package.json",
+					"settings":
+					{
+						"buffer_size": 901,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 357.0,
+				"last_filter": "list ",
+				"selected_items":
+				[
+					[
+						"list ",
+						"Package Control: List Packages"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"synta co",
+						"Set Syntax: CoffeeScript"
+					],
+					[
+						"pac in",
+						"Package Control: Install Package"
+					],
+					[
+						"pac",
+						"Package Control: Install Package"
+					],
+					[
+						"comm",
+						"Toggle Block Comment"
+					],
+					[
+						"syn",
+						"Set Syntax: Ruby"
+					],
+					[
+						"",
+						"JSHint: Clear Annotations"
+					],
+					[
+						"jsx",
+						"Set Syntax: JavaScript (JSX)"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"js",
+						"JSHint: Clear Annotations"
+					],
+					[
+						"j",
+						"JSHint: Clear Annotations"
+					],
+					[
+						"save",
+						"File: Save All"
+					],
+					[
+						"sa",
+						"File: Save All"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Preferences: Browse Packages"
+					],
+					[
+						"sav",
+						"File: Save All"
+					]
+				],
+				"width": 400.0
+			},
+			"console":
+			{
+				"height": 153.0,
+				"history":
+				[
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/ran/github/auto-script",
+				"/home/ran/github/auto-script/tmp_conf"
+			],
+			"file_history":
+			[
+				"/etc/hosts",
+				"/home/ran/desktop/test.sh",
+				"/proc/sys/net/core/somaxconn",
+				"/home/ran/github/Yinleme/atom",
+				"/etc/rc.local",
+				"/home/ran/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/etc/apt/sources.list",
+				"/home/ran/uconfig/mongodb.conf",
+				"/home/ran/.config/fish/config.fish",
+				"/home/ran/github/Yinleme/package.json",
+				"/etc/lightdm/lightdm.conf",
+				"/etc/rethinkdb/default.conf.sample",
+				"/etc/resolv.conf",
+				"/etc/network/interfaces",
+				"/etc/fstab",
+				"/etc/host",
+				"/etc/mtab",
+				"/home/ran/test/test.awk",
+				"/home/ran/desktop/log",
+				"/etc/apt/sources.list.",
+				"/home/ran/github/auto-script/tmp_conf/redis.conf",
+				"/home/ran/github/auto-script/tmp_conf/mongodb.conf",
+				"/etc/mongod.conf",
+				"/home/ran/github/auto-script/tmp_conf/Makefile",
+				"/home/ran/programs/leveldb/Makefile",
+				"/etc/shadowsocks.json",
+				"/etc/init.d/networking",
+				"/etc/modprobe.d/blacklist.conf",
+				"/home/ran/.atom/config.cson",
+				"/home/ran/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+				"/home/ran/github/atom/build/node_modules/grunt-download-atom-shell/tasks/download-atom-shell-task.coffee",
+				"/usr/local/bin/atom",
+				"/home/ran/github/atom/build/Gruntfile.coffee",
+				"/home/ran/github/atom/build/tasks/build-task.coffee",
+				"/home/ran/github/atom/build/tasks/task-helpers.coffee",
+				"/home/ran/.atom/nohup.out",
+				"/home/ran/cat",
+				"/home/ran/github/atom/build/tasks/install-task.coffee",
+				"/home/ran/github/atom/build/tasks/atom-shell",
+				"/home/ran/github/atom/build/.npmrc",
+				"/home/ran/github/atom/script/utils/run-grunt.js",
+				"/home/ran/github/atom/script/utils/verify-requirements.js",
+				"/home/ran/test/se.js",
+				"/home/ran/github/atom/script/bootstrap",
+				"/home/ran/github/atom/script/grunt",
+				"/etc/hoss",
+				"/home/ran/github/Lotterior/README.md",
+				"/boot/grub/grub.cfg",
+				"/home/ran/.selected_editor",
+				"/tmp/crontab.j6bJH2/crontab",
+				"/home/ran/others/tes/index.html",
+				"/home/ran/others/yg/index.html",
+				"/home/ran/github/Lotterior/lotterior.js",
+				"/home/ran/github/RewardsPool/pool.js",
+				"/home/ran/desktop/cryptp2pshare/peer/d_handle.rb",
+				"/home/ran/github/RocketEngine/lib/browser/event.js",
+				"/home/ran/github/RewardsPool",
+				"/home/ran/desktop/cryptp2pshare/peer/shared.rb",
+				"/home/ran/desktop/cryptp2pshare/index/server.rb",
+				"/home/ran/desktop/cryptp2pshare/index/redis_storage.rb",
+				"/home/ran/desktop/cryptp2pshare/index/ca.rb",
+				"/home/ran/desktop/cryptp2pshare/index-server/server.rb",
+				"/home/ran/desktop/cryptp2pshare/peer/client.rb",
+				"/home/ran/desktop/cryptp2pshare/peer/test_e.rb",
+				"/home/ran/desktop/cryptp2pshare/peer/handle.rb",
+				"/home/ran/desktop/cryptp2pshare/encp.rb",
+				"/home/ran/desktop/cryptp2pshare/index-server/test_c.rb",
+				"/home/ran/desktop/cryptp2pshare/index-server/test_s.rb",
+				"/home/ran/desktop/cryptp2pshare/util.rb",
+				"/home/ran/desktop/cryptp2pshare/index-server/handle.rb",
+				"/home/ran/desktop/cryptp2pshare/index-server/redis_storage.rb",
+				"/home/ran/desktop/cryptp2pshare/index-server/cert.rb",
+				"/home/ran/desktop/cryptp2pshare/data-node/shared.rb",
+				"/home/ran/desktop/cryptp2pshare/data-node/handle.rb",
+				"/home/ran/desktop/cryptp2pshare/data-node/client.rb",
+				"/home/ran/desktop/cryptp2pshare/data-node/test_e.rb",
+				"/home/ran/utils/android_root_resource/hammerhead-lmy47i/flash-base.sh",
+				"/home/ran/desktop/cryptp2pshare/data-node/daemon.rb",
+				"/home/ran/desktop/cryptp2pshare/index-server/ca.rb",
+				"/home/ran/desktop/cryptp2pshare/index-server/test.rb",
+				"/home/ran/ran_rsa.pub",
+				"/home/ran/ran_rsa",
+				"/home/ran/desktop/cryptp2pshare/crypto.rb",
+				"/home/ran/desktop/cryptp2pshare/index-server/util.rb",
+				"/home/ran/desktop/1123710413-ui/synopsis.html",
+				"/home/ran/desktop/1123710413-ui/what-is-websocket.html",
+				"/home/ran/desktop/ui/demo.html",
+				"/home/ran/desktop/1123710413-ui/index.html",
+				"/media/ran/wexin-rewards/rewards/routes/index.js",
+				"/media/ran/wexin-rewards/rewards/services/rewardspool.js",
+				"/media/ran/wexin-rewards/rewards/node_modules/wechat-api/lib/util.js",
+				"/home/ran/desktop/sqa/commission/testc.rb",
+				"/home/ran/desktop/sqa/commission/test.rb",
+				"/home/ran/desktop/cryptp2pshare/index-server/Gemfile",
+				"/home/ran/desktop/cryptp2pshare/index-server/spec.rb",
+				"/home/ran/desktop/cryptp2pshare/index-server/tcps.rb",
+				"/home/ran/github/Yinle.me/core-store.js",
+				"/home/ran/github/Yinle.me/fs-subsystem.js",
+				"/home/ran/github/Git-Contacts/config.yml",
+				"/home/ran/github/Git-Contacts/Gemfile",
+				"/usr/local/lib/ruby/gems/2.1.0/gems/sinatra-contrib-1.4.2/sinatra-contrib.gemspec",
+				"/home/ran/.bashrc",
+				"/home/ran/desktop/ui2/inputgrp.js",
+				"/home/ran/desktop/ui2/playground.js",
+				"/home/ran/desktop/ui2/render.js",
+				"/home/ran/desktop/middleware/client.java",
+				"/home/ran/desktop/middleware/AddInterface.java",
+				"/home/ran/desktop/sqa/commission/test_record.rb",
+				"/home/ran/desktop/sqa/commission/Rakefile",
+				"/home/ran/desktop/sqa/commission/record.rb",
+				"/home/ran/desktop/中间件/Client.cpp",
+				"/home/ran/desktop/中间件/Constant.h",
+				"/home/ran/desktop/中间件/CA.cpp",
+				"/home/ran/desktop/middleware/server.java",
+				"/home/ran/desktop/sqa/webserver/README.md",
+				"/home/ran/desktop/sqa/webserver/record.rb",
+				"/home/ran/desktop/sqa/webserver/views/index.erb",
+				"/home/ran/desktop/sqa/webserver/views/record.erb",
+				"/home/ran/desktop/sqa/webserver/views/error.erb",
+				"/home/ran/github/Git-Contacts/lib/api/routes/card.rb",
+				"/home/ran/github/Git-Contacts/lib/gitcontacts/Contacts.rb",
+				"/home/ran/github/Git-Contacts/lib/gc-restful-api.rb",
+				"/home/ran/desktop/sqa/webserver/Gemfile",
+				"/home/ran/github/Git-Contacts/app.rb",
+				"/home/ran/desktop/sqa/commission/commission.gemspec",
+				"/home/ran/github/gitcontacts/gitcontacts.gemspec",
+				"/home/ran/desktop/sqa/nextdate/nextdate.js",
+				"/home/ran/desktop/sqa/nextdate/README.md"
+			],
+			"find":
+			{
+				"height": 36.0
+			},
+			"find_in_files":
+			{
+				"height": 96.0,
+				"where_history":
+				[
+					"<this files>",
+					"<open files>",
+					"<this files>",
+					"<open files>",
+					"<this files>",
+					"<open files>",
+					"<this files>",
+					"<open files>",
+					"<this files>",
+					"<open files>",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"port",
+					"utopic",
+					"outputDir",
+					"downloadDir",
+					"TaskName",
+					"downloadDir",
+					"versionDownloadDir",
+					"downloadAndUnzip",
+					"unzipFile",
+					"shell",
+					"Atom",
+					"atom-shell",
+					"Atom",
+					"atomShellDownloadDir",
+					"home",
+					"atom-shell",
+					"https",
+					"_builtIn",
+					"Math",
+					"_algorithm",
+					"windows",
+					"img",
+					"rewards",
+					"rounds",
+					"isFull",
+					"File",
+					"puts",
+					"Invalid",
+					"generate",
+					"packet",
+					"data",
+					"packet",
+					"puts",
+					"666",
+					"origin",
+					"registy",
+					"parse_packet",
+					"handle",
+					"parse_packet",
+					"generate_packet",
+					"prefix",
+					"2048",
+					"wrapper",
+					"redis",
+					"end",
+					"typeVerify_readCb",
+					"convert2",
+					"writeToDir_dirCb",
+					"convert2pdf",
+					"must_be_equal",
+					"Fx",
+					"_IX_H_",
+					"form",
+					"    \n",
+					"primary",
+					"inverted",
+					" -",
+					"redis",
+					"nNextDate",
+					"_solarAdd",
+					"toHex",
+					"S1",
+					"s1",
+					"print_key_set",
+					"print_char_as_binary",
+					"printf",
+					"generate_key",
+					"print_char_as_binary",
+					"S8",
+					"16",
+					"processed_piece",
+					"process_message",
+					"amounts",
+					"      \n",
+					"pool",
+					"rounds+ ",
+					"rounds + ",
+					"rounds+ ",
+					"amounts",
+					"db.collection('pool')",
+					"console",
+					"checkSi",
+					"pool_",
+					"          \n",
+					"wait",
+					"amount",
+					"inspect",
+					"ToUserName",
+					"find",
+					"amount",
+					"_candidates",
+					"_rewards",
+					"_amount",
+					"amount",
+					"text",
+					"multer",
+					"self",
+					"rewards",
+					"    \n",
+					"pool",
+					"reply",
+					"counts",
+					"rounds",
+					"pool",
+					"counts",
+					"update",
+					"wechat",
+					"wsf",
+					"ws",
+					"wsf",
+					"EventEmitter",
+					"CustomEvent",
+					"_sockets",
+					"remote",
+					"info",
+					"getRegistedId",
+					"id",
+					"genRandomNumber",
+					"id",
+					"amounts",
+					"database",
+					"hasOwnProperty",
+					"isFunction",
+					"hasOwnProperty",
+					"console",
+					"mongo",
+					"NASU",
+					"head_len"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"trusty",
+					"inverted toBin",
+					"toBin",
+					"className=",
+					"/css/dist/components/",
+					"createClass",
+					"@body",
+					"@return_message",
+					"return_message",
+					"status",
+					"",
+					"unborn",
+					"  ",
+					"#209E7D",
+					"#10B68A",
+					"exports",
+					"this.tuples[++this.tindex]",
+					"args.tuple",
+					"args.\nargs.\nargstuple",
+					"args.\nargs.\nargs.tuple",
+					"args.src",
+					"args.c_row",
+					"args.c_col",
+					"args.s_col",
+					"args.s_row",
+					"args.s_col",
+					"args.c_col",
+					"args.c_row",
+					"tuple",
+					"classof",
+					"dbopt",
+					"sysEmit",
+					"valueAsDate || new Date()",
+					"<script async defer src='js/Utils/check_valid.js'></script>",
+					"href=\"css/style.css\"",
+					"_proto"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/ran/github/auto-script"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 2,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/etc/rc.local",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 434,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										411,
+										411
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/etc/rethinkdb/default.conf.sample",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2785,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1712,
+										1712
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 342.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/usr/local/lib/node_modules/node-qrcode/package.json",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 901,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										569,
+										569
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JSON.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 27.0
+			},
+			"input":
+			{
+				"height": 35.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.coffeecompile_output":
+			{
+				"height": 124.0
+			},
+			"output.exec":
+			{
+				"height": 124.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,0,0,0,0,1366,768",
+			"project": "",
+			"replace":
+			{
+				"height": 50.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"index.js"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 145.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 379,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"licensed": false,
+	"packages":
+	[
+		"0_package_control_loader",
+		"Package Control",
+		"Rust",
+		"0_package_control_loader",
+		"Package Control",
+		"Rust"
+	],
+	"startup_sec": 1.79278,
+	"syntax":
+	{
+		"Ruby": 161
+	},
+	"time": 1427636706
+}
