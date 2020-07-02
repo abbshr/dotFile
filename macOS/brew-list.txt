@@ -1,0 +1,16 @@
+ansible
+deno
+gdbm
+ruby
+wget
+bash
+docker
+htop
+sccache
+bash-completion
+exa
+git
+libffi
+gdb
+mas
+unrar
