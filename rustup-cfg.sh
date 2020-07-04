@@ -7,9 +7,9 @@
 
 type rustup &> /dev/null && exit 0
 
-curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | bash -s -- -y
 
-if [[ $? != 0 ]]; then
+if [[ ${PIPESTATUS[0]} != 0 || ${PIPESTATUS[1]} != 0 ]]; then
     echo "rustup 安装失败"
     exit 1
 fi
