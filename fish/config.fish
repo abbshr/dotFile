@@ -1,22 +1,23 @@
-set EDITOR /usr/bin/subl
-alias ls='ls --color=auto'
+# add ssh keys
+for pk_name in (ls ~/.ssh/*.pub)
+    ssh-add (string split -r -m1 . $pk_name)[1] ^/dev/null
+end
+
+set -xg EDITOR /usr/local/bin/code
 alias grep='grep --color=auto'
 alias fgrep='fgrep --color=auto'
 alias egrep='egrep --color=auto'
-alias clang='clang-3.5'
-
-# some more ls aliases
 alias ll='ls -alF'
 alias la='ls -A'
 alias l='ls -CF'
 
 # greetings help
-cat $HOME/.config/fish/greet
-
 function hp
-  cat $HOME/.config/fish/greet
+    cat $HOME/.config/fish/greet
 end
 
-# Add an "alert" alias for long running commands.  Use like so:
-#   sleep 10; alert
-#alias alert='notify-send --urgency=low -i "$([ $? = 0 ] && echo terminal || echo error)" "$(history|tail -n1|sed -e '\''s/^\s*[0-9]\+\s*//;s/[;&|]\s*alert$//'\'')"'
+set -xg PATH $PATH $HOME/.cargo/bin
+set -xg PATH $PATH $HOME/.deno/bin
+
+set -xg RUSTUP_DIST_SERVER "https://mirrors.ustc.edu.cn/rust-static"
+set -xg RUSTUP_UPDATE_ROOT "https://mirrors.ustc.edu.cn/rust-static/rustup"

@@ -3,6 +3,7 @@ deno
 gdbm
 ruby
 wget
+curl
 bash
 docker
 htop
@@ -14,3 +15,13 @@ libffi
 gdb
 mas
 unrar
+rar
+jq
+mas
+pv
+nmap
+sshfs
+jnettop
+nethogs
+iftop
+n

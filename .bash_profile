@@ -19,4 +19,7 @@ alias ll='ls -alF'
 alias la='ls -A'
 alias l='ls -CF'
 
+export RUSTUP_DIST_SERVER="https://mirrors.ustc.edu.cn/rust-static"
+export RUSTUP_UPDATE_ROOT="https://mirrors.ustc.edu.cn/rust-static/rustup"
+
 [[ -s ~/.bashrc ]] && source ~/.bashrc

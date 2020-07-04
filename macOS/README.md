@@ -1,0 +1,6 @@
+- clash
+  - target: `$HOME/.config`
+- terminal desc
+- brew
+- bash
+- git

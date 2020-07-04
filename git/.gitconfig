@@ -1,12 +1,12 @@
 [user]
-	name = xx
-	email = xx
+	name = rran
+	email = abbshrsoufii@gmail.com
 [alias]
 	st = status -sb
-	branches = branch -a\n
+	branches = branch -a
 	remotes = remote -v
 	lg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --
 	co = checkout
-	ac = !git add -A && git commit -m
+	ac = !git add -A && git commit
 [color]
 	ui = 1

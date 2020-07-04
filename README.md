@@ -23,6 +23,10 @@
 
 - `.vimrc`
 
+## gem
+
+- `.gemrc`
+
 ## Font
 
 - MonacoB2
