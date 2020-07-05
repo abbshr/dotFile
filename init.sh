@@ -1,11 +1,22 @@
 #!/usr/bin/env bash
 
 set -e
+set -o pipefail
 
 source b-log/b-log.sh
 
 # log all level
-LOG_LEVEL_ALL
+# - OFF
+# - FATAL
+# - ERROR
+# - WARN
+# - NOTICE
+# - INFO
+# - DEBUG
+# - TRACE
+# - ALL
+DOTFILE_LOG_LEVEL="LOG_LEVEL_${DOTFILE_LOG_LEVEL:=ALL}"
+B_LOG --log-level ${!DOTFILE_LOG_LEVEL}
 
 # pre-required:
 # - socks5 proxy configured
@@ -23,72 +34,37 @@ cp -a htop ~/.config/
 cp -a .bashrc ~/
 cp -a .gemrc ~/
 
-if [[ $(uname -s) == 'Darwin' ]]; then
-    source init-darwin.sh
-else
-    source init-linux.sh
-fi
-
-export https_proxy="http://${PROXY_ADDR}:7890"
-export http_proxy="http://${PROXY_ADDR}:7890"
-export all_proxy="socks5://${PROXY_ADDR}:7891"
+if [[ -n $PROXY_ADDR ]]; then
+    export https_proxy="http://${PROXY_ADDR}:7890"
+    export http_proxy="http://${PROXY_ADDR}:7890"
+    export all_proxy="socks5://${PROXY_ADDR}:7891"
 
 cat <<EOF >> ~/.bashrc
 export https_proxy="http://${PROXY_ADDR}:7890"
 export http_proxy="http://${PROXY_ADDR}:7890"
 export all_proxy="socks5://${PROXY_ADDR}:7891"
 EOF
-
-if [[ $(uname -s) == 'Darwin' ]]; then
-    NOTICE "安装 homebrew"
-    curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh | /usr/bin/env bash
-
-    if [[ ${PIPESTATUS[0]} != 0 ]]; then
-        ERROR "brew 安装失败"
-        exit 1
-    else
-        INFO "brew 安装成功"
-    fi
-
-    arr=($(cat macOS/brew-list.txt))
-    DEBUG "brew list: ${arr[*]}"
-    brew install ${arr[@]}
 fi
 
-install-nodejs() {
-  INFO "安装 Node.js"
-  curl -sS https://git.io/n-install | bash -s -- -q
-  if [[ $? != 0 ]]; then
-    ERROR "node.js 下载失败"
-  else
-    export PATH=~/n/bin:$PATH
-    if command -v n; then
-        n lts
-        npm install -g autocannon node-gyp
+if [[ $(uname -s) == 'Darwin' ]]; then
+    source init-darwin.sh
+else
+    source init-linux.sh
+fi
+
+if [[ $(uname -s) == 'Darwin' ]]; then
+    source brew.sh
+
+    # 切换 login shell
+    if [[ -r "/usr/local/bin/bash" ]]; then
+        sudo echo "/usr/local/bin/bash" >> /etc/shells
+        chsh -s /usr/local/bin/bash
     else
-      ERROR "node.js lts 安装失败"
+        WARN "未能切换登录 shell 为 bash"
     fi
-  fi
-}
+fi
 
-install-ruby() {
-  INFO "安装 Ruby"
-  wget -qO - https://github.com/postmodern/ruby-install/archive/v0.7.0.tar.gz | tar xzv
-  if [[ $? != 0 ]]; then
-    ERROR "Ruby 下载失败"
-  else
-    cd ruby-install-0.7.0
-    make install
-    cd -
-    if command -v ruby; then
-        gem install pry
-    else
-      ERROR "Ruby 安装失败"
-    fi
-  fi
-}
-
-install-nodejs
-install-ruby
-
-source rustup-cfg.sh
+source nodejs.sh
+source ruby.sh
+source rust.sh
+source deno.sh

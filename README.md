@@ -2,32 +2,20 @@
 
 ## macOS
 
-- Terminal 配置
+- font
+- vscode
+- Terminal
+- login shell
+- ssh key
+- sshd
+- vip
 
 ## ubuntu server in docker
 
-## git
+```sh
+cd dotFile/
+docker build -t xx:dotFile .
+docker run --init -d -it --cap-add=ALL --privileged -h myhost --name=ubuntu xx:dotFile
 
-- `.gitconfig`
-
-## bash
-
-- `.bashrc`
-- `.bash_profile`
-
-## fish
-
-- `config.fish`
-
-## vim
-
-- `.vimrc`
-
-## gem
-
-- `.gemrc`
-
-## Font
-
-- MonacoB2
-- MonacoBSemi
+docker exec -it --privileged ubuntu bash
+```
