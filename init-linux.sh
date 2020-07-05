@@ -19,6 +19,10 @@ config-bash() {
   cat linux/.bashrc >> ~/.bashrc
 }
 
+config-sysstat() {
+  echo 'ENABLED="true"' > /etc/default/sysstat
+}
+
 install-operation-tools() {
   INFO "安装运维工具"
   pip install ansible
@@ -43,6 +47,7 @@ main() {
   config-system
   install-dependencies
   install-operation-tools
+  config-sysstat
 
   true
 }

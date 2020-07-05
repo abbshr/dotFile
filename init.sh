@@ -53,6 +53,8 @@ else
 fi
 
 if [[ $(uname -s) == 'Darwin' ]]; then
+    chown -R $USER /usr/local/
+
     source brew.sh
 
     # 切换 login shell
