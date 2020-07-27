@@ -32,6 +32,7 @@ cp -a .vimrc ~/
 cp -a fish ~/.config/
 cp -a htop ~/.config/
 cp -a .bashrc ~/
+cp -a terminal_theme.sh ~/.config/
 cp -a .gemrc ~/
 
 if [[ -n $PROXY_ADDR ]]; then
