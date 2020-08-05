@@ -21,3 +21,5 @@ code() {
     local SUB_SPEC_DIR=${SPEC_DIR/\/root}
     ssh mac "code ${MACOS_PATH}${SUB_SPEC_DIR}"
 }
+
+export TZ='Asia/Shanghai'
