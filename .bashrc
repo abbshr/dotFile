@@ -7,8 +7,8 @@ alias ll='ls -alF'
 alias la='ls -A'
 alias l='ls -CF'
 
-export RUSTUP_DIST_SERVER="https://mirrors.ustc.edu.cn/rust-static"
-export RUSTUP_UPDATE_ROOT="https://mirrors.ustc.edu.cn/rust-static/rustup"
+# export RUSTUP_DIST_SERVER="https://mirrors.ustc.edu.cn/rust-static"
+# export RUSTUP_UPDATE_ROOT="https://mirrors.ustc.edu.cn/rust-static/rustup"
 
 # add ssh priavte keys
 for pk_name in $(ls ~/.ssh/*.pub 2>/dev/null); do
@@ -17,4 +17,4 @@ done
 
 [[ -r "/usr/local/etc/profile.d/bash_completion.sh" ]] && . "/usr/local/etc/profile.d/bash_completion.sh"
 
-source ~/.config/terminal_theme.sh
+source ~/.config/terminal_theme.sh;
