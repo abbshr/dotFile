@@ -23,3 +23,8 @@ code() {
 }
 
 export TZ='Asia/Shanghai'
+
+# add ssh priavte keys
+for pk_name in $(ls ~/.ssh/*.pub 2>/dev/null); do
+  ssh-add ${pk_name/.pub} &> /dev/null
+done
