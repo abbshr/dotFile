@@ -12,6 +12,7 @@ type rustup &> /dev/null && exit 0
 
 if curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | bash -s -- -y; then
     source ~/.cargo/env
+    cat ~/.cargo/env >> ~/.bashrc
 
     # enable tab completion
     # Bash

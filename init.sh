@@ -26,7 +26,7 @@ mkdir -p ~/.config
 
 mkdir -p ~/{test,github,gitlab,personal,downloads,config}
 
-cp -a git/ ~/
+cp -a git/* ~/
 cp -a .vim ~/
 cp -a .vimrc ~/
 cp -a fish ~/.config/
