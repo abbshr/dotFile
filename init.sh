@@ -2,6 +2,7 @@
 
 set -e
 set -o pipefail
+shopt -s dotglob
 
 source b-log/b-log.sh
 

@@ -13,18 +13,16 @@ export LANG="zh_CN.UTF-8"
 export LANGUAGE="zh_CN:zh"
 export LC_ALL="zh_CN.UTF-8"
 export EDITOR="/usr/bin/vim"
-
-export MACOS_PATH="/Users/xxx/mnt-linux"
-
-code() {
-    local SPEC_DIR=$(realpath ${1})
-    local SUB_SPEC_DIR=${SPEC_DIR/\/root}
-    ssh mac "code ${MACOS_PATH}${SUB_SPEC_DIR}"
-}
-
 export TZ='Asia/Shanghai'
 
 # add ssh priavte keys
 for pk_name in $(ls ~/.ssh/*.pub 2>/dev/null); do
   ssh-add ${pk_name/.pub} &> /dev/null
 done
+
+export MACOS_PATH="/Users/ran/mnt"
+
+code() {
+    local SPEC_DIR=$(realpath ${1})
+    ssh mac "code ${MACOS_PATH}${SPEC_DIR}"
+}
