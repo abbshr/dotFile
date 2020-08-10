@@ -31,6 +31,8 @@ if curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | bash -s -- -y; th
     rustup component add rls rust-analysis || WARN "rls rust-analysis 安装失败"
 
     command -v sccache || cargo install sccache || WARN "sccache 安装失败"
+
+    cargo install procs bat exa fd-find ripgrep jql || WARN "辅助软件安装失败"
 else
     echo "rustup 安装失败"
 fi

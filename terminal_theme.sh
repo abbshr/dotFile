@@ -12,7 +12,7 @@ append_git_status_after_prompt() {
 }
 
 git_branch() {
-  git rev-parse --abbrev-ref HEAD
+  git symbolic-ref HEAD 2>/dev/null | sed -e 's|^refs/heads/||'
 }
 
 _PS1="\[\033[1;37m\]\u@\[\033[1;33m\]\H:\[\033[1;34m\]\w\[\033[00m\]$ "
