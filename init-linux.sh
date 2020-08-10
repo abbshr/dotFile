@@ -17,6 +17,7 @@ config-system() {
 
 config-bash() {
   cat linux/.bashrc >> ~/.bashrc
+  cat .bashrc_append.sh >> ~/.bashrc
 }
 
 config-sysstat() {
